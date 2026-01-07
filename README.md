@@ -2,7 +2,7 @@
 
 ## Overview
 This project is an end-to-end energy analytics dashboard built using Python, Dash, and Plotly.
-It simulates how a utility company like Hydro One can monitor household electricity usage,
+It simulates how a utility company can monitor household electricity usage,
 analyze trends, and support data-driven operational decisions.
 
 ## Objectives
